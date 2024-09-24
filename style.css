@@ -1,0 +1,48 @@
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .mensagem1 {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .mensagem2 {
+    font-size: 36px;
+    color: red;
+  }
+  
+  button {
+    padding: 20px;
+    font-size: 26px;
+    cursor: pointer;
+    background-color: #8a05be;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #7a02a4;
+  }
+  
+  button:active {
+    background-color: #6a0094;
+  }
+  
+  footer {
+    margin-top: 45px;
+  }
